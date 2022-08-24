@@ -1,5 +1,4 @@
 - 👋 Olá, meu nome é Carolina e meu user aqui é @carolinaamartins
-- 📍 Moro em Canoas/RS-BR
 - 👩🏻‍💻 Meus interesses estão voltados para HTML e CSS  
 - 🌱 Estou cursando tecnólogo em ADS, além de estudar linguagens de marcação e programação
 - 💞️ Em constante desenvolvimento de novas skills para mudar de área e me encontrar no mundo tech 
